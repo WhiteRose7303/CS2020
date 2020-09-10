@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0119D1D2-F96E-4199-920C-A140FFE1724E}"
 	ProjectSection(SolutionItems) = preProject
 		readme.txt = readme.txt
+		TEST\EmptyTextFile.txt = TEST\EmptyTextFile.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEST", "TEST\TEST.csproj", "{8815AAAD-4834-4EE7-8012-A17D2E0BA3AF}"
