@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-11.11220-Mall-and-Shops"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-11.11255-California-Fires", "Ex-11.11255-California-Fires\Ex-11.11255-California-Fires.csproj", "{A6416306-8A0B-4F96-AB1E-4F112577136F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oran_question", "Oran_question\Oran_question.csproj", "{9B059B27-3829-4A90-9993-591A933C72AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{A6416306-8A0B-4F96-AB1E-4F112577136F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6416306-8A0B-4F96-AB1E-4F112577136F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6416306-8A0B-4F96-AB1E-4F112577136F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B059B27-3829-4A90-9993-591A933C72AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B059B27-3829-4A90-9993-591A933C72AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B059B27-3829-4A90-9993-591A933C72AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B059B27-3829-4A90-9993-591A933C72AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{01942A61-92D2-494B-8D5D-C1654D1112EB} = {27C534BC-4C7C-417D-97D7-C2437A6E2088}
 		{D02A2E73-4071-4A9E-852A-BBF1CB1E8E63} = {27C534BC-4C7C-417D-97D7-C2437A6E2088}
 		{A6416306-8A0B-4F96-AB1E-4F112577136F} = {27C534BC-4C7C-417D-97D7-C2437A6E2088}
+		{9B059B27-3829-4A90-9993-591A933C72AA} = {27C534BC-4C7C-417D-97D7-C2437A6E2088}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4F2ABDD1-015E-4EEA-AFED-FE798B4D3165}
