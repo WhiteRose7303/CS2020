@@ -14,10 +14,10 @@ namespace Jumping_dog
         static int dog(int n)
         {
             if (n == 0) return 1; 
-            if (n == 1) return 1; 
-            if (n == 2) return 2; 
+            if (n == 1) return 1;
+            if (n == 2) return 2;
             else
-                return (dog(n - 1) + dog(n - 2) + dog(n - 3))
+                return (dog(n - 1) + dog(n - 2) + dog(n - 3));
         }
        
     }
