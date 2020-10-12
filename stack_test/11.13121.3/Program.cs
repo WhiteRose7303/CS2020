@@ -13,6 +13,7 @@ namespace Application
             s.Push(4);
             s.Push(5);
             s.Push(55);
+            equl(s);
         }
         public static bool equl(Stack<int> s)
         {
