@@ -5,6 +5,9 @@ namespace Jumping_dog
 {
     class Program
     {
+        //the class runs first the part without recursion and then runs the recursion part.
+        //the function is *f(n) = f(n-3) + f(n-2) + f(n-1)*
+
         static void Main(string[] args)
         {            
             relo();
@@ -23,7 +26,7 @@ namespace Jumping_dog
                 return (dog(n - 1) + dog(n - 2) + dog(n - 3));
         }
 
-
+        //this section is whitout recursion 
         public static int[] Fibonacci(int number)
         {
             int[] a = new int[number+1];
