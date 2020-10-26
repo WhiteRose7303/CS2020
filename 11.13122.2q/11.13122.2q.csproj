@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_11._13122._2q</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Unit4">
+      <HintPath>..\..\..\..\..\Documents\Unit4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
