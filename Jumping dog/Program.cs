@@ -10,7 +10,7 @@ namespace Jumping_dog
 
         static void Main(string[] args)
         {            
-            relo();
+            //relo();
             Console.Write("steps: ");
             int length = int.Parse(Console.ReadLine());
             for (int i = 0; i < length+1; i++)

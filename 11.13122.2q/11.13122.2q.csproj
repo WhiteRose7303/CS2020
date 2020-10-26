@@ -10,6 +10,9 @@
     <Reference Include="Unit4">
       <HintPath>..\..\..\..\..\Documents\Unit4.dll</HintPath>
     </Reference>
+    <Reference Include="Unit4">
+      <HintPath>..\..\..\Documents\Visual studio\Unit4.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

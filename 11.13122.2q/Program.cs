@@ -61,8 +61,7 @@ class MainClass
     public static bool ThreeInstances(Queue<int> q, int d)
     {
         int instances = 0;
-        Stack<int> s1 = new Stack<int>();
-        Stack<int> s2 = new Stack<int>();
+        Queue<int> q1 = new Queue<int>();
         while (!q.IsEmpty())
         {
             int num = q.Head();
@@ -74,11 +73,11 @@ class MainClass
             }
             if (num == d)
                 instances++;
-            s1.Push(q.Remove());
+            q1.Insert(q.Remove());
         }
-        while(!s1.IsEmpty())
+        while(!q1.IsEmpty())
         {
-            s2.Push(s1.Pop());
+            q.Insert(q1.Remove());
         }
         return (instances >= 3);
     }
