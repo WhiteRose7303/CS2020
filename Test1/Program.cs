@@ -6,6 +6,7 @@ namespace Test1
     {
         public static void Main(string[] args)
         {
+            //this is a remark
             int n = 1;
             int i = 1;
             int[] age = new int[n];
